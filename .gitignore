@@ -3,3 +3,6 @@ output.txt
 pipeline.json
 pipeline.txt
 agents.json
+dist
+node_modules
+airlift-test-binary
